@@ -1,0 +1,12 @@
+
+-- DESTINCT получить уникальные значения
+
+SELECT JOB_ID from JOB_HISTORY;
+
+-- DESTINCT Действует на каждый столбец
+SELECT DISTINCT JOB_ID, DEPARTMENT_ID, EMPLOYEE_ID FROM JOB_HISTORY;
+
+SELECT COMMISSION_PCT from EMPLOYEES;
+
+
+

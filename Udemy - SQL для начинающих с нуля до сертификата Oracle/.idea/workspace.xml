@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0f85d10-6a62-4935-8a8f-f5f036c0874d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="f22851b5-2838-4fb2-ae68-3b8f253dda1e" value="Green" />
+    </colors>
+  </component>
+  <component name="ProjectId" id="2KHNcIqb1aJwFzlw5MZTqehUQqi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="oracle&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="database.data.extractors.current.id" value="JSON-Groovy.json.groovy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\PROGRAMMING\WEB\GIT\LEARNING\Databases\Udemy - SQL для начинающих с нуля до сертификата Oracle" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="01 005.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/01 005.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="f22851b5-2838-4fb2-ae68-3b8f253dda1e" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1595" y="527" key="#01_005.sql" timestamp="1673676807256">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="-2011" y="1050" key="#01_005.sql/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673627654465" />
+    <state x="1595" y="527" key="#01_005.sql/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673676807256" />
+    <state x="1685" y="834" key="#02-DUAL.sql" timestamp="1673704088098">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1685" y="834" key="#02-DUAL.sql/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673704088098" />
+    <state x="583" y="537" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673682429997">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="-2646" y="1067" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673631374748" />
+    <state x="583" y="537" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673682429997" />
+    <state x="4431" y="1067" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@3840.702.2560.1400" timestamp="1673631440055" />
+    <state x="-28" y="341" width="3656" height="1936" key="DiffContextDialog" timestamp="1673684303525">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="-28" y="341" width="3656" height="1936" key="DiffContextDialog/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673684303525" />
+    <state x="1700" y="814" key="FileChooserDialogImpl" timestamp="1673705284333">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1700" y="814" key="FileChooserDialogImpl/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673705284333" />
+    <state width="3326" height="541" key="GridCell.Tab.0.bottom" timestamp="1673720822606">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="3087" height="707" key="GridCell.Tab.0.bottom/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
+    <state width="3326" height="541" key="GridCell.Tab.0.bottom/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673720822606" />
+    <state width="3326" height="541" key="GridCell.Tab.0.center" timestamp="1673720822606">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="3087" height="707" key="GridCell.Tab.0.center/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
+    <state width="3326" height="541" key="GridCell.Tab.0.center/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673720822606" />
+    <state width="3326" height="541" key="GridCell.Tab.0.left" timestamp="1673720822606">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="3087" height="707" key="GridCell.Tab.0.left/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
+    <state width="3326" height="541" key="GridCell.Tab.0.left/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673720822606" />
+    <state width="3326" height="541" key="GridCell.Tab.0.right" timestamp="1673720822606">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="3087" height="707" key="GridCell.Tab.0.right/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
+    <state width="3326" height="541" key="GridCell.Tab.0.right/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673720822606" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1673682520036">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673682520036" />
+    <state x="1459" y="803" width="1647" height="912" key="SettingsEditor" timestamp="1673704452154">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1459" y="803" width="1647" height="912" key="SettingsEditor/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673704452154" />
+    <state x="1567" y="971" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1673720867168">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1567" y="971" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673720867168" />
+    <state x="1843" y="991" width="154" height="123" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1673686835623">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1843" y="991" width="154" height="123" key="com.intellij.database.run.ParametersPanel.Standalone/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673686835623" />
+    <state x="1656" y="1074" key="com.intellij.sql.injection.SqlTypeBasedInjectionSupport" timestamp="1673719272061">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1656" y="1074" key="com.intellij.sql.injection.SqlTypeBasedInjectionSupport/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673719272061" />
+    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup" timestamp="1673719798177">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673719798177" />
+  </component>
+</project>

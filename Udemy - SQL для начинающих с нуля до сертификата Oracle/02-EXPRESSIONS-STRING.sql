@@ -1,0 +1,6 @@
+SELECT * FROM JOB_HISTORY;
+
+SELECT FIRST_NAME || ' ' ||  LAST_NAME FROM EMPLOYEES;
+
+SELECT 'my name is ' || FIRST_NAME || 'and my last name is ' || LAST_NAME FROM EMPLOYEES;
+
