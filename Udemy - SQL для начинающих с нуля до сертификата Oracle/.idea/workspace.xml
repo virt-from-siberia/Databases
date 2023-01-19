@@ -63,26 +63,26 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="1700" y="814" key="FileChooserDialogImpl/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673787633616" />
-    <state width="3430" height="901" key="GridCell.Tab.0.bottom" timestamp="1674106020173">
+    <state width="3156" height="679" key="GridCell.Tab.0.bottom" timestamp="1674149480458">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="3087" height="707" key="GridCell.Tab.0.bottom/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
-    <state width="3430" height="901" key="GridCell.Tab.0.bottom/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674106020173" />
-    <state width="3430" height="901" key="GridCell.Tab.0.center" timestamp="1674106020173">
+    <state width="3156" height="679" key="GridCell.Tab.0.bottom/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674149480458" />
+    <state width="3156" height="679" key="GridCell.Tab.0.center" timestamp="1674149480458">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="3087" height="707" key="GridCell.Tab.0.center/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
-    <state width="3430" height="901" key="GridCell.Tab.0.center/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674106020173" />
-    <state width="3430" height="901" key="GridCell.Tab.0.left" timestamp="1674106020173">
+    <state width="3156" height="679" key="GridCell.Tab.0.center/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674149480458" />
+    <state width="3156" height="679" key="GridCell.Tab.0.left" timestamp="1674149480458">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="3087" height="707" key="GridCell.Tab.0.left/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
-    <state width="3430" height="901" key="GridCell.Tab.0.left/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674106020173" />
-    <state width="3430" height="901" key="GridCell.Tab.0.right" timestamp="1674106020173">
+    <state width="3156" height="679" key="GridCell.Tab.0.left/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674149480458" />
+    <state width="3156" height="679" key="GridCell.Tab.0.right" timestamp="1674149480458">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state width="3087" height="707" key="GridCell.Tab.0.right/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@-3440.702.3440.1400" timestamp="1673718574534" />
-    <state width="3430" height="901" key="GridCell.Tab.0.right/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674106020173" />
+    <state width="3156" height="679" key="GridCell.Tab.0.right/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674149480458" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1673682520036">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
@@ -103,9 +103,9 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="1656" y="1074" key="com.intellij.sql.injection.SqlTypeBasedInjectionSupport/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673719272061" />
-    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup" timestamp="1673719798177">
+    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup" timestamp="1674146950496">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
-    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1673719798177" />
+    <state x="1579" y="743" width="672" height="678" key="search.everywhere.popup/3840.702.2560.1400/-3440.702.3440.1400/0.0.3840.2120@0.0.3840.2120" timestamp="1674146950496" />
   </component>
 </project>
