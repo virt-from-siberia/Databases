@@ -14,5 +14,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/northwind</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="PZ-Prod" uuid="7eb69ef0-a111-4a01-84a5-46df2de2e1f6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rc1b-txh4nmgfqkiseneq.mdb.yandexcloud.net:6432/papazaim</jdbc-url>
+    </data-source>
   </component>
 </project>

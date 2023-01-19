@@ -27,5 +27,20 @@
       <user-name>postgres</user-name>
       <schema-mapping />
     </data-source>
+    <data-source name="PZ-Prod" uuid="7eb69ef0-a111-4a01-84a5-46df2de2e1f6">
+      <database-info product="PostgreSQL" version="13.8 (Ubuntu 13.8-201-yandex.50658.d8a18beeb8)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.5" dbms="POSTGRES" exact-version="13.8" exact-driver-version="42.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>pz-sync</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
   </component>
 </project>
