@@ -1,0 +1,8 @@
+SELECT NVL(FIRST_NAME, 'no employee'),
+       NVL(LAST_NAME, 'no last name'),
+       NVL(SALARY, 0
+           ),
+       NVL(DEPARTMENT_NAME, 'no department')
+FROM EMPLOYEES
+         FULL OUTER JOIN DEPARTMENTS ON (EMPLOYEES.DEPARTMENT_ID = DEPARTMENTS.DEPARTMENT_ID);
+
