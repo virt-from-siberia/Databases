@@ -46,8 +46,8 @@
     <schema id="15" parent="1" name="HR">
       <ObjectId>101</ObjectId>
       <CreatedTimestamp>2023-01-05.04:27:22</CreatedTimestamp>
-      <ModifiedTimestamp>2023-04-23.12:22:10</ModifiedTimestamp>
-      <IntrospectionTimestamp>2023-04-23.12:22:10</IntrospectionTimestamp>
+      <ModifiedTimestamp>2023-04-24.10:16:36</ModifiedTimestamp>
+      <IntrospectionTimestamp>2023-04-24.10:16:36</IntrospectionTimestamp>
       <CommentsHash>1994963259341</CommentsHash>
       <Current>1</Current>
     </schema>
@@ -253,9 +253,9 @@
       <TemporaryPreserve>1</TemporaryPreserve>
     </table>
     <table id="57" parent="15" name="STUDENTS">
-      <ObjectId>95078</ObjectId>
-      <CreatedTimestamp>2023-04-23.12:22:10</CreatedTimestamp>
-      <ModifiedTimestamp>2023-04-23.12:22:10</ModifiedTimestamp>
+      <ObjectId>95382</ObjectId>
+      <CreatedTimestamp>2023-04-24.10:16:36</CreatedTimestamp>
+      <ModifiedTimestamp>2023-04-24.10:16:36</ModifiedTimestamp>
       <TemporaryPreserve>1</TemporaryPreserve>
     </table>
     <view id="58" parent="15" name="EMP_DETAILS_VIEW">
@@ -50026,12 +50026,12 @@ START_DATE</ColNames>
       <Position>4</Position>
       <DataType>NUMBER(*)|0s</DataType>
     </column>
-    <foreign-key id="7184" parent="57" name="ST_FACULTY_FK">
-      <ModifiedTimestamp>2023-04-23.12:22:10</ModifiedTimestamp>
+    <foreign-key id="7184" parent="57" name="FK">
+      <ModifiedTimestamp>2023-04-24.10:16:36</ModifiedTimestamp>
       <ColNames>FACULTY_ID</ColNames>
       <RefTableName>FACULTIES</RefTableName>
       <RefKeyName>SYS_C0019422</RefKeyName>
-      <OnDelete>cascade</OnDelete>
+      <OnDelete>restrict</OnDelete>
     </foreign-key>
     <column id="7185" parent="58" name="EMPLOYEE_ID">
       <Position>1</Position>
